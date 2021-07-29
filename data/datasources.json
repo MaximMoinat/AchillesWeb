@@ -4,6 +4,11 @@
       "name": "Synthea Maxim",
       "folder": "~/Develop/Me/AchillesWeb/data/maxim_synthea",
       "cdmVersion": 5
+    },
+    {
+      "name": "Synthea Other",
+      "folder": "~/Develop/Me/AchillesWeb/data/other_synthea",
+      "cdmVersion": 5
     }
   ]
 }
