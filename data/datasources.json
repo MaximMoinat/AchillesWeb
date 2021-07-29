@@ -2,7 +2,7 @@
   "datasources": [
     {
       "name": "Synthea Maxim",
-      "folder": "./data/maxim_synthea",
+      "folder": "maxim_synthea",
       "cdmVersion": 5
     }
   ]
