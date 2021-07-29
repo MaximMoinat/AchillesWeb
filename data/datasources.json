@@ -1,0 +1,9 @@
+{
+  "datasources": [
+    {
+      "name": "Synthea Maxim",
+      "folder": "~/Develop/Me/AchillesWeb/data/maxim_synthea",
+      "cdmVersion": 5
+    }
+  ]
+}
